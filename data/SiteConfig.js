@@ -3,7 +3,7 @@ const config = {
   siteTitleShort: 'Tania Rascia',
   siteTitleAlt: 'Tania Rascia',
   siteLogo: '/logos/tech-logo.webp',
-  siteUrl: 'https:/ar.thewebhostdir.com',
+  siteUrl: 'https://ar.thewebhostdir.com',
   repo: 'https://github.com/earngate/theweb-copy-01',
   pathPrefix: '',
   dateFromFormat: 'YYYY-MM-DD',
